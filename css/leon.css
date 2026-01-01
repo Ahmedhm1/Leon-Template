@@ -323,13 +323,13 @@ html {
 }
 
 .leanding-page .sub-portfolio :nth-child(1) .image {
-    background-image: url("/images/portfolio-1.jpg");
+    background-image: url("../images/portfolio-1.jpg");
 }
 .leanding-page .sub-portfolio :nth-child(2) .image {
-    background-image: url("/images/portfolio-2.jpg");
+    background-image: url("../images/portfolio-2.jpg");
 }
 .leanding-page .sub-portfolio :nth-child(3) .image {
-    background-image: url("/images/portfolio-3.jpg");
+    background-image: url("../images/portfolio-3.jpg");
 }
 
 
